@@ -1,0 +1,9 @@
+# Blender MTL File: 'WindMill.blend'
+# Material Count: 1
+
+newmtl None
+    Ka  0.1986  0.0000  0.0000
+    Kd  0.5922  0.5166  0.5000
+    Ks  0.5974  0.2084  0.2084
+    illum 2
+    Ns 100.2237

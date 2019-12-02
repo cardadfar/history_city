@@ -1,0 +1,34 @@
+{
+    "tree": ["wikipedia",
+             "ibm",
+             "tesla",
+             "homedepot",
+             "lowe",
+             "weather"
+                ],
+    "windmill": [],
+    "skyscraper": ["youtube",
+                   "facebook",
+                   "instagram",
+                   "google",
+                   "amazon",
+                   "twitter",
+                   "windows",
+                   "netflix",
+                   "bing",
+                   "ebay",
+                   "twitch",
+                   "msn",
+                   "apple"
+                    ],
+    "house": ["linkedin",
+              "stackoverflow",
+              "github",
+              "reddit",
+              "fandom",
+              "pypal",
+              "pinterest",
+              "quora",
+              "calendar"
+             ]
+}
