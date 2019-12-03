@@ -2,6 +2,8 @@
 
 History City is a browser history visualizer that creates a city in realtime based on the type and frequency of sites you visit.
 
+![Image description](images/city_01.png)
+
 ## Set Up
 
 You will need to have a JSON copy of your history saved onto your computer. You can use the [Export History](https://chrome.google.com/webstore/detail/export-history/hcohnnbbiggngobheobhdipbgmcbelhh) extension in Chrome to download your history. 
