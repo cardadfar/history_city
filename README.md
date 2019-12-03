@@ -38,3 +38,7 @@ python3 -m http.server
 ```
 
 Using a browser, type in 'localhost:8000’ to view your HistoryCity come to life. The baseline code ships with just one url and one building, so be sure to add in your own history!
+
+## Credits
+
+All models were obtained from [TurboSquid](https://www.turbosquid.com). The graphics were built using [Three.js](https://threejs.org).
