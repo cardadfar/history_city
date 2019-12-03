@@ -35,4 +35,4 @@ Run a localhost in the root directory.
 python3 -m http.server
 ```
 
-Using a browser, type in 'localhost:8000’ to view your HistoryCity come to life.
+Using a browser, type in 'localhost:8000’ to view your HistoryCity come to life. The baseline code ships with just one url and one building, so be sure to add in your own history!
