@@ -2,7 +2,7 @@
 
 History City is a browser history visualizer that creates a city in realtime based on the type and frequency of sites you visit.
 
-![HistoryCityExample](images/city_01.png)
+![HistoryCityExample](images/banner.png)
 
 ## Set Up
 
